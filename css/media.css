@@ -16,4 +16,12 @@
         height: 2.5rem;
         padding-block: 0;
     }
+
+    /*.details-form-logo {*/
+    /*    bottom: 50px;*/
+    /*}*/
+
+    .details-form button {
+        margin-bottom: 30px;
+    }
 }
